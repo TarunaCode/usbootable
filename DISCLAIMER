@@ -1,5 +1,5 @@
-    Text User Interface script for bootable-maker 
-    Copyright (C) 2020-2021, floppvs
+    usbootable (source code) , to make a flashdisk bootable media
+    Copyright (C) 2021 Taruna Code
     
     This Program is free software you can redistribute it and/or modify 
     it under terms of the GNU General Public License as published by
@@ -14,3 +14,5 @@
    
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <https//www.gnu.org/licenses/>
+
+    Maulana B. <https://github.com/floppvs>
